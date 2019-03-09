@@ -1,0 +1,11 @@
+
+*.npy
+*.pkl
+cbot/weights/seq2seq_model.ckpt-43000.data-00000-of-00001
+cbot/weights/seq2seq_model.ckpt-43000.index
+cbot/weights/seq2seq_model.ckpt-43000.meta
+twitter_scraper/corpus/cleaned_corpus_en.txt
+twitter_scraper/corpus/cleaned_corpus_en2.txt
+twitter_scraper/corpus/en2_20190217_082147.txt
+twitter_scraper/corpus/en_20190216_163849.txt
+twitter_scraper/config.yml
