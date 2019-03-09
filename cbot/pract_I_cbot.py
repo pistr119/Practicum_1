@@ -1,6 +1,4 @@
-# Building The Best ChatBot with Deep NLP
-
-
+ 
 
 # Importing the libraries
 import seq2seq_wrapper

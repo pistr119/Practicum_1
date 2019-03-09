@@ -35,6 +35,7 @@ Anaconda
 
 # Libraries
 NUMPY\
+Pickle\
 Tensorflow (0.1.2)
 
 # Machine Learning Methods
